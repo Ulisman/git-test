@@ -1,2 +1,3 @@
 # git-test
-testing git
+
+A simple repository for testing git
